@@ -28,7 +28,7 @@ The page has a blue palette, a centered introduction followed by a wide photogra
 | CSS Grid | Programme cards, admissions steps and form fields |
 | Flexbox | Navigation, action buttons and footer |
 | Transitions | Smooth hover feedback |
-| Rotate and scale | Monogram, arrows and campus photograph |
+| Rotate and scale | Arrows and campus photograph |
 | Translate X and Y | Links, cards and buttons |
 | Linear gradient | Programme backgrounds |
 | Radial gradient | Circular arrow beside the hero photograph |
@@ -59,4 +59,13 @@ This is an independent educational project, not an official university website. 
 - `campus-community.jpg`: https://uol.edu.pk/wp-content/uploads/2025/05/1E1A1793.jpg
 - `campus-friends.jpg`: https://uol.edu.pk/wp-content/uploads/2025/05/WhatsApp-Image-2024-09-26-at-1.33.51-PM.jpg
 
-University photographs belong to their respective owners and are used for this educational demonstration. The UOL text monogram is a project element, not the official university logo.
+University photographs belong to their respective owners and are used for this educational demonstration. The header and footer use the unchanged official green university logo downloaded from its public logo library.
+
+
+## Official university logo
+
+- Logo library: https://uol.edu.pk/logos/
+- Original asset: https://uol.edu.pk/wp-content/uploads/2025/12/UOL-Green-V1.png
+- Local asset: `uol-official-logo.png`
+
+The original image is retained without cropping, recolouring or reconstruction. CSS scales it proportionally for desktop and mobile. The logo belongs to The University of Lahore; its inclusion does not make this student project an official or affiliated university service.
